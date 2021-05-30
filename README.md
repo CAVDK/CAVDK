@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CAVDK 
 - 👀 I’m interested in making games and interactive websites
-- 🌱 I’m currently learning game developement and web developement
+- 🌱 I’m currently learning game development and web development
 - 💞️ I’m looking to collaborate on any indie platformer game or a classic shooter game
 - 📫 How to reach me @reorezz on twitter
 
